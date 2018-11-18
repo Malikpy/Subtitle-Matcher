@@ -31,4 +31,4 @@ for i in range(0,len(List_old)):
 	except Exception  as e:
 		print(e)
 		
-x=input("SSS")
+x=input("Press Enter to exit")
